@@ -1,11 +1,6 @@
 # Learnings
 
-I mainly created this with Go to learn.
-Creating this with Laravel, with which I have the most programming experience, and thus with the Carbon date manipulation libraray would not have been a great challenge.
-
-Besides, with the requirement of having to generate a CSV, I thought a CLI tool would be more than sufficient.
-
-I have never created a full program with Go before, so wanted to grab this opportunity to do so.
+I mainly created this with Go to learn. I have never created a full program with Go before, so wanted to grab this opportunity to do so.
 
 What I have learned so far:
 
